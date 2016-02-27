@@ -15,3 +15,45 @@ How is the staging area different from the working directory and the repository?
 
 staging area is not a full commit, but rather an almost commit area. Versus the repository when everything is a snapshot. or a working directory where both the hidden and unhidden files can be seen but may be committed yet.
 
+How can you use the staging area to make sure you have one commit per logical change?
+
+2/26/2016 Thursday 2:34 PM
+
+Took a lot longer to get to this point than anticipated. Struggled to get sublime text editor linked. finally had the reference include x86, then adding the spaces and \ around the \(x86\) part. struggled to try to add a message when using the git committ for the reflections repository
+finally made it here! to answer this question. forgot about asteroids.js
+as for answering the questions
+the staging area can be used to show that there is only one file waiting. This allows the user to verify that only 1 file will be committed at a time.
+this struggling is good though. means I'm learning and growing.  
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+2/26/2016 Thursday 3:13 PM
+
+ Branches are very helpful when wanting to try something new. Or completely rewrite the code. The working copy is still valid. But if there is a merge between a branch and the main, it would be clearly labeled. Each branch would have a unique name to identify what the modification is. 
+
+How do the diagrams help you visualize the branch structure?
+
+2/26/2016 Thursday 7:17 PM
+
+The diagrams really help me map out how the different branches are related. When they diverge. How is it possible to merge again.Just provides a really nice picture to understand everything better. 
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+2/26/2016 Thursday 7:49 PM
+
+The result is having more code combined or efficient or more features than before the commit. Its represented properly in the branch becuase the files are really being combind into 1 main file. 
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+2/27/2016 Saturday 4:15 PM
+
+Pros: automatic merging: very quickly merge hundreds or close to thousands of lines in very little time
+much faster than manually going and performing a merge
+
+Cons: possiblity of having errors of not working after merge
+method name not recognized with rest of the code 
+
+Pros: manual merge - always able to make sure that you know what code is being selecting from each 
+practical when merging from 2 different areas and very different methods or variables
+
+Cons: much slower, more tedious, easy to make mistakes on the same type of code
