@@ -11,3 +11,13 @@ Why might you want to always pull changes manually rather than having Git automa
 
 When you pull changes manually, then you know when you are ready to synce your personal repository with the remote. 
 Otherwise if Git automatically stay's up to date, something can either be pulled and overwrite the same file that your are working on on your Git or add extra files that you don't account for and crash your program by including the extra files. 
+
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+2/28/2016 5:45 PM Sunday
+Forking is similar to cloning. You are coping a repository on github to your own github account. 
+This way if you add changes to your version, you don't add changes to the orignal version. 
+Cloning occurs either by copying from someone else computer or getting a url online. 
+This would be used when wanting to work in a group environment to contribute together. 
+Branching occurs when there is something you want to try but not break the main program. So this allows for trying new features, different ways of implementing the code. 
