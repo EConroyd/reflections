@@ -26,5 +26,13 @@ What is the benefit of having a copy of the last known state of the remote store
 
 3/1/2016 3:27 PM Tuesday
 
-Not quite so sure about this. I would say to make it easier to perform a fast merge or short merge. uy
+Not quite so sure about this. I would say to make it easier to perform a fast merge or short merge. 
 
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+3/1/2016 4:14 PM Tuesday
+
+Without Git or GitHub, have to send email atttachments of the code. Then download and compare/edit. 
+
+The harder part without Git or GitHub would be making modifications, seeing the label of the changes, giving someone else credit if cloning their work. 
+Also letting someone else know before a merge if there was a typo, but still letting him/her know about it. Much harder to be organized and follow the line of thought/progression. 
