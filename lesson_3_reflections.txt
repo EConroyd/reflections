@@ -21,3 +21,10 @@ This way if you add changes to your version, you don't add changes to the origna
 Cloning occurs either by copying from someone else computer or getting a url online. 
 This would be used when wanting to work in a group environment to contribute together. 
 Branching occurs when there is something you want to try but not break the main program. So this allows for trying new features, different ways of implementing the code. 
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+3/1/2016 3:27 PM Tuesday
+
+Not quite so sure about this. I would say to make it easier to perform a fast merge or short merge. uy
+
