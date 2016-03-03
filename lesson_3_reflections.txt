@@ -36,3 +36,14 @@ Without Git or GitHub, have to send email atttachments of the code. Then downloa
 
 The harder part without Git or GitHub would be making modifications, seeing the label of the changes, giving someone else credit if cloning their work. 
 Also letting someone else know before a merge if there was a typo, but still letting him/her know about it. Much harder to be organized and follow the line of thought/progression. 
+
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+3/3/2016 12:33 PM Thursday
+
+I would say if it's a small change, its easier to just make the change in the master.
+The benefits here is that its less complicated. Not as many merges or pull requests.  
+I woul be more likely to make changes in a seperate if I'm trying something new. If it hasn't been tested yet, I want to try merging it with the master after getting it to work. 
+The benefits here are that something new can be tested without crashing the system yet still allow for creativity to try something new. 
+
